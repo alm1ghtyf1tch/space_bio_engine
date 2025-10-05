@@ -77,7 +77,7 @@ const SearchPage = () => {
     setTotalCount(null);
 
     try {
-      const response = await fetch(`https://space-bio-engine.onrender.com/search?q=${encodeURIComponent(query)}&k=50`, {
+      const response = await fetch(`https://space-bio-engine-bionova.onrender.com/search?q=${encodeURIComponent(query)}&k=50`, {
         method: "GET",
         headers: { "Content-Type": "application/json" }
       });
@@ -107,7 +107,7 @@ const SearchPage = () => {
     const m = paperId.match(/PMC\d+/i);
     const cleanId = m ? m[0] : paperId;
     try {
-      const resp = await fetch(`https://space-bio-engine.onrender.com/paper/${encodeURIComponent(cleanId)}`);
+      const resp = await fetch(`https://space-bio-engine-bionova.onrender.com/paper/${encodeURIComponent(cleanId)}`);
       if (!resp.ok) {
         if (resp.status === 404) throw new Error("Paper not found on server");
         throw new Error(`Paper API error: ${resp.status}`);
@@ -122,7 +122,7 @@ const SearchPage = () => {
     }
     // Fetch flexible summary
     try {
-      const resp = await fetch(`https://space-bio-engine.onrender.com/paper_summarized/${encodeURIComponent(cleanId)}`);
+      const resp = await fetch(`https://space-bio-engine-bionova.onrender.com/paper_summarized/${encodeURIComponent(cleanId)}`);
       if (!resp.ok) {
         if (resp.status === 404) throw new Error("Summary not found");
         throw new Error(`Summary API error: ${resp.status}`);
