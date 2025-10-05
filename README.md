@@ -49,25 +49,7 @@ This MVP uses a FastAPI backend and a React + Vite frontend. The summarizer can 
 
 ---
 
-## 🖼️ Screenshots
-
-> Add screenshots to `docs/screenshots/` and update the filenames below
-
-- **Search Page:** `docs/screenshots/search-page.png`  
-- **Details Page (LLM Summary):** `docs/screenshots/details-page.png`
-
-Example markdown to include images:
-
-```md
-![Search Page](./docs/screenshots/search-page.png)
-![Details Page](./docs/screenshots/details-page.png)
-````
-
----
-
 ## 🛠️ Local Development — Quick Start
-
-> Assumes repository root contains `frontend/` and `backend/` folders.
 
 ### 1. Clone repository
 
@@ -239,3 +221,4 @@ If you need help running the project, want to contribute, or request permission 
 **Abilmansur Inkarbay** — GitHub: [@alm1ghtyf1tch](https://github.com/alm1ghtyf1tch)
 
 **My Email** — segathess@gmail.com
+
