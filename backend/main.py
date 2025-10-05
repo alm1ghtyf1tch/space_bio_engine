@@ -34,9 +34,8 @@ app = FastAPI(title="SpaceBio Engine (Simple API)")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "*",
         "https://space-bio-engine-beta.vercel.app"
-    ],  # Allow Vercel frontend
+    ],  # Allow only Vercel frontend
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
