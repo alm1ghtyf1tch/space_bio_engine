@@ -1,0 +1,19 @@
+{
+  "paper_id": "pmc_articles_PMC8890767",
+  "title": "Safety and pharmacokinetics of intranasally administered heparin",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8890767/",
+  "sections": {
+    "Abstract": "Intranasally administered unfractionated heparin (UFH) and other sulfated polysaccharides are potential prophylactics for COVID-19. The purpose of this research was to measure the safety and pharmacokinetics of clearance of intranasally administered ...",
+    "Results": "UFH showed no evidence of toxicity in mice at any dose measured. No significant changes were observed in activated partial thromboplastin time (aPTT), platelet count, or frequency of minor irritant events over vehicle-only control. Human subjects showed no significant changes in aPTT time, international normalized ratio (INR), or platelet count over baseline measurements. No serious adverse events were observed. In vivo imaging in a mouse model showed a single phase clearance of UFH from the nasal cavity. After 12 h, 3.2% of the administered UFH remained in the nasal cavity, decaying to background levels by 48 h.",
+    "Conclusion": "UFH showed no toxic effects for extended daily intranasal dosing in mice as well as humans. The clearance kinetics of intranasal heparin solution from the nasal cavity indicates potentially protective levels for up to 12 h after dosing.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/e311cb044d20/11095_2022_3191_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/af907713fcc1/11095_2022_3191_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/b62f0b90ab39/11095_2022_3191_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/4a0131dc1258/11095_2022_3191_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/187d4d1cbf2f/11095_2022_3191_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/9d94eb493d0a/11095_2022_3191_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c31/8890767/8959f54c3a8b/11095_2022_3191_Fig7_HTML.jpg"
+    ]
+  }
+}

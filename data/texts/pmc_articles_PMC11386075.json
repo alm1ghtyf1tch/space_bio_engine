@@ -1,0 +1,19 @@
+{
+  "paper_id": "pmc_articles_PMC11386075",
+  "title": "Predicting how varying moisture conditions impact the microbiome of dust collected from the International Space Station",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11386075/",
+  "sections": {
+    "Abstract": "The commercialization of space travel will soon lead to many more people living and working in unique built environments similar to the International Space Station, which is a specialized closed environment that contains its own indoor microbiome. ...",
+    "Results": "Here, we demonstrate that even short exposures to varying elevated relative humidity can facilitate rapid microbial growth and microbial community composition changes in dust from spacecraft. We modeled fungal growth in dust from the International Space Station using the time-of-wetness framework with activation and deactivation limited growth occurring at 85% and 100% relative humidity, respectively. Fungal concentrations ranged from an average of 4.4 × 10 6 spore equivalents per milligram of dust in original dust with no exposure to relative humidity to up to 2.1 × 10 10 when exposed to 100% relative humidity for 2 weeks. As relative humidity and time-elevated increased, fungal diversity was significantly reduced for both alpha ( Q < 0.05) and beta ( R 2 = 0.307, P = 0.001) diversity metrics. Bacteria were unable to be modeled using the time-of-wetness framework. However, bacterial communities did change based on constant relative humidity incubations for both beta ( R 2 = 0.22, P = 0.001) and alpha diversity decreasing with increasing moisture starting at 85% relative humidity ( Q < 0.05).",
+    "Conclusion": "Our results demonstrate that moisture conditions can be used to develop and predict changes in fungal growth and composition onboard human-occupied spacecraft. This predictive model can be expanded upon to include other spacecraft environmental factors such as microgravity, elevated carbon dioxide conditions, and radiation exposure. Understanding microbial growth in spacecraft can help better protect astronaut health, fortify spacecraft integrity, and promote planetary protection as human activity increases in low-Earth orbit, the moon, Mars, and beyond. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (167.1MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/f2c817922d60/40168_2024_1864_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/7bbfbe75cc49/40168_2024_1864_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/c28882bbced4/40168_2024_1864_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/8ac9103ba66b/40168_2024_1864_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/72434f86a15d/40168_2024_1864_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/c8a53e5f8cbe/40168_2024_1864_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6e9/11386075/ffaaf232d417/40168_2024_1864_Fig7_HTML.jpg"
+    ]
+  }
+}

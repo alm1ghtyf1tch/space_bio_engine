@@ -1,0 +1,13 @@
+{
+  "paper_id": "pmc_articles_PMC10344948",
+  "title": "Caenorhabditis elegans in microgravity: An omics perspective",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10344948/",
+  "sections": {
+    "Abstract": "The application of omics to study Caenorhabditis elegans (C. elegans) in the context of spaceflight is increasing, illuminating the wide-ranging biological impacts of spaceflight on physiology. In this review, we highlight the application of omics, ...",
+    "Results": "",
+    "Conclusion": "C. elegans represents a cheap and feasible organism to study the mechanisms regulating phenotypic adaptations in response to microgravity. We highlight that the application of omics analysis to spaceflight research has identified many ways that C. elegans respond to microgravity, at the level of the transcriptome, proteome, and epigenome. Notably, microgravity elicits transcriptional responses with microgravity robustly regulating genes related to muscle locomotion and metabolism ( Figure 1 ). Similarly, proteomic changes in microgravity represent robust declines in cytoskeletal and metabolic proteins, which may underpin the pathophysiological phenotype associated with microgravity, particularly muscle decline. Importantly, these major transcriptional signatures are reproducible despite substantial differences in culturing conditions. Future work should consider using emerging omics approaches, such as multi-omics and spatial transcriptomics, to unravel tissue-specific spatiotemporal responses to microgravity in C. elegans . Where possible, such experiments should adopt, or at least consider, consortium-devised omics-related working pipelines in order to standardize experimental design, such as those developed by the International Standards for Space Omics Processing. In turn, this will facilitate future comparative omics investigations, thus extracting as much insight as possible from rare space omics experiments. This will lead to the identification of the fundamental mechanisms regulating (mal)adaptations to microgravity, benefiting health while in space and on Earth (e.g., aging, diabetes).",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd57/10344948/77c04e11c34a/gr1.jpg"
+    ]
+  }
+}

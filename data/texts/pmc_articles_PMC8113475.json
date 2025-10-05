@@ -1,0 +1,18 @@
+{
+  "paper_id": "pmc_articles_PMC8113475",
+  "title": "Rad-Bio-App: A discovery environment for biologists to explore spaceflight-related radiation exposures",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8113475/",
+  "sections": {
+    "Abstract": "In addition to microgravity, spaceflight simultaneously exposes biology to a suite of other stimuli. For example, in space, organisms experience ionizing radiation environments that significantly differ in both quality and quantity from those ...",
+    "Results": "Subject terms: Databases, Physiology, Plant sciences, Microbiology, Molecular biology",
+    "Conclusion": "To conclude, we have introduced a data mining visualization tool, the Rad-Bio-App, enabling the rapid identification of omics datasets deposited in the NASA GeneLab data repository, which are relevant for a specific spaceflight radiation scenario (e.g., trip to Mars or on the lunar surface) or specific characteristics of radiation exposure. Testing this tool on a scenario of a mission on the Moon, we identified a series of experiments conducted on the ISS with similar radiation profiles. Because the Rad-Bio-App links to GeneLab datasets, it was then straightforward to extract processed gene expression tables from GeneLab to identify common pathways that may be modified by, in this case, the lunar surface radiation environment. As more researchers enter datasets into GeneLab related to spaceflight and radiation exposure that explore the effects of e.g., species, genetics, gender, and age, the Rad-Bio-App should become an increasingly powerful tool to help accelerate assessment of the effects of Space radiation environments on living entities.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/29c4/8113475/495b42ec4061/41526_2021_143_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/29c4/8113475/2edc333db7cf/41526_2021_143_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/29c4/8113475/17f4a971aa7d/41526_2021_143_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/29c4/8113475/7d773517f57d/41526_2021_143_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/29c4/8113475/e3c021dc0642/41526_2021_143_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/29c4/8113475/0dd630efa2df/41526_2021_143_Fig6_HTML.jpg"
+    ]
+  }
+}

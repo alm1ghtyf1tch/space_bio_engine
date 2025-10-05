@@ -1,0 +1,18 @@
+{
+  "paper_id": "pmc_articles_PMC3422896",
+  "title": "14-3-3 phosphoprotein interaction networks - does isoform diversity present functional interaction specification?",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422896/",
+  "sections": {
+    "Abstract": "Abstract The 14-3-3 proteins have emerged as major phosphoprotein interaction proteins and thereby constitute a key node in the Arabidopsis Interactome Map, a node through which a large number of important signals pass. Throughout their history of discovery and description, the 14-3-3s have been described as protein families and there has been some evidence that the different 14-3-3 family members within any organism might carry isoform-specific functions. However, there has also been evidence for redundancy of 14-3-3 function, suggesting that the perceived 14-3-3 diversity may be the accumulation of neutral mutations over evolutionary time and as some 14-3-3 genes develop tissue or organ-specific expression. This situation has led to a currently unresolved question – does 14-3-3 isoform sequence diversity indicate functional diversity at the biochemical or cellular level? We discuss here some of the key observations on both sides of the resulting debate, and present a set of contrastable observations to address the theory functional diversity does exist among 14-3-3 isoforms. The resulting model suggests strongly that there are indeed functional specificities in the 14-3-3s of Arabidopsis. The model further suggests that 14-3-3 diversity and specificity should enter into the discussion of 14-3-3 roles in signal transduction and be directly approached in 14-3-3 experimentation. It is hoped that future studies involving 14-3-3s will continue to address specificity in experimental design and analysis. Keywords: Arabidopsis, GRF, plant, subcellular localization, 14-3-3 isoform specificity",
+    "Results": "Dimerization between different 14-3-3s is, therefore, likely to be variable and depend at least on the intrinsic affinities among 14-3-3s isoforms. Further, dimerization is likely to be variable within cell types, depending on the expression levels and sub-cellular localization of different isoforms, in addition to the phosphorylation status of isoforms. As mentioned above, phosphorylation of 14-3-3s can inhibit dimerization ( Woodcock et al., 2003 ; Gu et al., 2006 ). There is evidence in mammals that monomeric 14-3-3s may be functional too and may have different client binding properties to the dimers ( Shen et al., 2003 ; Zhou et al., 2003 ; Han et al., 2010 ). This leads to the conclusion that dimerization status, particularly the degree of heterodimerization, must be accounted for in any model of 14-3-3 isoform specificity.",
+    "Conclusion": "Keywords: Arabidopsis, GRF, plant, subcellular localization, 14-3-3 isoform specificity",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae0d/3422896/6a7a50357f47/fpls-03-00190-g001.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae0d/3422896/1b19a82c6c6d/fpls-03-00190-g002.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae0d/3422896/febc530c2f3a/fpls-03-00190-g003.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae0d/3422896/596ff5cba908/fpls-03-00190-g004.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae0d/3422896/9daac466c828/fpls-03-00190-g005.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae0d/3422896/9fb73f77b650/fpls-03-00190-g006.jpg"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "paper_id": "pmc_articles_PMC11166967",
+  "title": "Transcriptomics analysis reveals molecular alterations underpinning spaceflight dermatology.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166967/",
+  "sections": {
+    "Abstract": "Spaceflight poses a unique set of challenges to humans and the hostile spaceflight environment can induce a wide range of increased health risks, including dermatological issues. The biology driving the frequency of skin issues in astronauts is ...",
+    "Results": "Key biological changes related to skin health, DNA damage & repair, and mitochondrial dysregulation are identified as potential drivers for skin health risks during spaceflight. Additionally, a machine learning model is utilized to determine gene pairings associated with spaceflight response in the skin. While we identified spaceflight-induced dysregulation, such as alterations in genes associated with skin barrier function and collagen formation, our results also highlight the remarkable ability for organisms to re-adapt back to Earth via post-flight re-tuning of gene expression.",
+    "Conclusion": "Our findings can guide future research on developing countermeasures for mitigating spaceflight-associated skin damage.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/d36f0a27ce6b/43856_2024_532_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/7cce788baa57/43856_2024_532_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/b76ef71ce7a4/43856_2024_532_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/19102a3b9b93/43856_2024_532_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/c9405d140eff/43856_2024_532_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/3e2319f541a5/43856_2024_532_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/2200a63fa009/43856_2024_532_Fig7_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/3a05dd6604e4/43856_2024_532_Fig8_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b43a/11166967/a98b1b1b6458/43856_2024_532_Fig9_HTML.jpg"
+    ]
+  }
+}

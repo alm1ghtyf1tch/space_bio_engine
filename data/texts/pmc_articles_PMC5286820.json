@@ -1,0 +1,18 @@
+{
+  "paper_id": "pmc_articles_PMC5286820",
+  "title": "Skewing in Arabidopsis roots involves disparate environmental signaling pathways.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5286820/",
+  "sections": {
+    "Abstract": "Skewing root patterns provide key insights into root growth strategies and mechanisms that produce root architectures. Roots exhibit skewing and waving when grown on a tilted, impenetrable surface. The genetics guiding these morphologies have been ...",
+    "Results": "This work identifies a number of genes that are likely involved in skewing, using growth conditions that differentially affect skewing and waving. Comparing the gene expression profiles of WS and Col-0 in different tilted growth conditions identified 11 candidate genes as potentially involved in the control of skewing. These 11 genes are involved in several different cellular processes, including sugar transport, salt signaling, cell wall organization, and hormone signaling.",
+    "Conclusion": "This study identified 11 genes whose change in expression level is associated with root skewing behavior. These genes are involved in signaling and perception, rather than the physical restructuring of root. Future work is needed to elucidate the potential role of these candidate genes during root skewing.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4978/5286820/e94f0d5b6f3f/12870_2017_975_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4978/5286820/f62b3695ac31/12870_2017_975_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4978/5286820/5e099b921427/12870_2017_975_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4978/5286820/ec1e0af7e7e6/12870_2017_975_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4978/5286820/55ae5dcd06f7/12870_2017_975_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4978/5286820/4feddee3361f/12870_2017_975_Tab1_HTML.jpg"
+    ]
+  }
+}

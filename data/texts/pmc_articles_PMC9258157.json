@@ -1,0 +1,19 @@
+{
+  "paper_id": "pmc_articles_PMC9258157",
+  "title": "Metabolic modeling of the International Space Station microbiome reveals key microbial interactions.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258157/",
+  "sections": {
+    "Abstract": "Recent studies have provided insights into the persistence and succession of microbes aboard the International Space Station (ISS), notably the dominance of Klebsiella pneumoniae. However, the interactions between the various microbes aboard the ISS ...",
+    "Results": "Through a combination of a systems-based graph-theoretical approach, and a constraint-based community metabolic modeling approach, we demonstrated several key interactions in the ISS microbiome. These complementary approaches provided insights into the metabolic interactions and dependencies present amongst various microbes in a community, highlighting key interactions and keystone species. Our results showed that the presence of K. pneumoniae is beneficial to many other microorganisms it coexists with, notably those from the Pantoea genus. Species belonging to the Enterobacteriaceae family were often found to be the most beneficial for the survival of other microorganisms in the ISS microbiome. However, K. pneumoniae was found to exhibit parasitic and amensalistic interactions with Aspergillus and Penicillium species, respectively. To prove this metabolic prediction, K. pneumoniae and Aspergillus fumigatus were co-cultured under normal and simulated microgravity, where K. pneumoniae cells showed parasitic characteristics to the fungus. The electron micrography revealed that the presence of K. pneumoniae compromised the morphology of fungal conidia and degenerated its biofilm-forming structures.",
+    "Conclusion": "Our study underscores the importance of K. pneumoniae in the ISS, and its potential positive and negative interactions with other microbes, including potential pathogens. This integrated modeling approach, combined with experiments, demonstrates the potential for understanding the organization of other such microbiomes, unravelling key organisms and their interdependencies. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (105.5MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/e7e0bbe889e2/40168_2022_1279_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/cf9e1b90c492/40168_2022_1279_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/f905ac47f49e/40168_2022_1279_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/2c7b84b23492/40168_2022_1279_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/e4a701993966/40168_2022_1279_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/87adae1f6a61/40168_2022_1279_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/34ab/9258157/be66ccc4541f/40168_2022_1279_Fig7_HTML.jpg"
+    ]
+  }
+}

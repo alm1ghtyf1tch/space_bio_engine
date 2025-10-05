@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC4624184",
+  "title": "Microbiomes of the dust particles collected from the International Space Station and Spacecraft assembly facilities",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624184/",
+  "sections": {
+    "Abstract": "The International Space Station (ISS) is a unique built environment due to the effects of microgravity, space radiation, elevated carbon dioxide levels, and especially continuous human habitation. Understanding the composition of the ISS microbial ...",
+    "Results": "Samples collected from the ISS and two cleanrooms at the Jet Propulsion Laboratory (JPL, Pasadena, CA) were analyzed by traditional cultivation, adenosine triphosphate (ATP), and propidium monoazide–quantitative polymerase chain reaction (PMA-qPCR) assays to estimate viable microbial populations. The 16S rRNA gene Illumina iTag sequencing was used to elucidate microbial diversity and explore differences between ISS and cleanroom microbiomes. Statistical analyses showed that members of the phyla Actinobacteria, Firmicutes, and Proteobacteria were dominant in the samples examined but varied in abundance. Actinobacteria were predominant in the ISS samples whereas Proteobacteria, least abundant in the ISS, dominated in the cleanroom samples. The viable bacterial populations seen by PMA treatment were greatly decreased. However, the treatment did not appear to have an effect on the bacterial composition (diversity) associated with each sampling site.",
+    "Conclusion": "The results of this study provide strong evidence that specific human skin-associated microorganisms make a substantial contribution to the ISS microbiome, which is not the case in Earth-based cleanrooms. For example, Corynebacterium and Propionibacterium (Actinobacteria) but not Staphylococcus (Firmicutes) species are dominant on the ISS in terms of viable and total bacterial community composition. The results obtained will facilitate future studies to determine how stable the ISS environment is over time. The present results also demonstrate the value of measuring viable cell diversity and population size at any sampling site. This information can be used to identify sites that can be targeted for more stringent cleaning. Finally, the results will allow comparisons with other built sites and facilitate future improvements on the ISS that will ensure astronaut health.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d54/4624184/c1c9c925890d/40168_2015_116_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d54/4624184/2a3c093f842c/40168_2015_116_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d54/4624184/d06e53ed8604/40168_2015_116_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d54/4624184/c1b0a76a1e41/40168_2015_116_Fig4_HTML.jpg"
+    ]
+  }
+}

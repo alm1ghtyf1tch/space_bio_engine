@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC11999716",
+  "title": "Metagenomic interrogation of urban Superfund site reveals antimicrobial resistance reservoir and bioremediation potential.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11999716/",
+  "sections": {
+    "Abstract": "Abstract Aims We investigate the bioremediation potential of the microbiome of the Gowanus Canal, a contaminated waterway in Brooklyn, NY, USA, designated a Superfund site by the US Environmental Protection Agency due to high concentrations of contaminants, including polychlorinated biphenyls, petrochemicals, and heavy metals. Methods and results We present a metagenomic analysis of the Gowanus Canal sediment, consisting of a longitudinal study of surface sediment and a depth-based study of sediment core samples. We demonstrate that the resident microbiome includes 455 species, including extremophiles across a range of saltwater and freshwater species, which collectively encode 64 metabolic pathways related to organic contaminant degradation and 1171 genes related to heavy metal utilization and detoxification. Furthermore, our genetic screening reveals an environmental reservoir of antimicrobial resistance markers falling within 8 different classes of resistance, as well as de-novo characterization of 2319 biosynthetic gene clusters and diverse groups of secondary metabolites with biomining potential. Conclusion The microbiome of the Gowanus Canal is a biotechnological resource of novel metabolic functions that could aid in efforts for bioremediation, AMR reservoir mapping, and heavy metal mitigation. Keywords: EPA Superfund, environmental contamination, metagenomics, bioremediation, antimicrobial resistance, biomining",
+    "Results": "We present a metagenomic analysis of the Gowanus Canal sediment, consisting of a longitudinal study of surface sediment and a depth-based study of sediment core samples. We demonstrate that the resident microbiome includes 455 species, including extremophiles across a range of saltwater and freshwater species, which collectively encode 64 metabolic pathways related to organic contaminant degradation and 1171 genes related to heavy metal utilization and detoxification. Furthermore, our genetic screening reveals an environmental reservoir of antimicrobial resistance markers falling within 8 different classes of resistance, as well as de-novo characterization of 2319 biosynthetic gene clusters and diverse groups of secondary metabolites with biomining potential.",
+    "Conclusion": "The microbiome of the Gowanus Canal is a biotechnological resource of novel metabolic functions that could aid in efforts for bioremediation, AMR reservoir mapping, and heavy metal mitigation.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f183/11999716/39566a00921f/lxaf076fig1.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f183/11999716/f7be2e228d3a/lxaf076fig2.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f183/11999716/0e7e3ae9264f/lxaf076fig3.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f183/11999716/14bf3be8b4f7/lxaf076fig4.jpg"
+    ]
+  }
+}

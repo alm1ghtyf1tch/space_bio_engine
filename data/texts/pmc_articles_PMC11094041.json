@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC11094041",
+  "title": "Inspiration4 data access through the NASA Open Science Data Repository",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11094041/",
+  "sections": {
+    "Abstract": "The increasing accessibility of commercial and private space travel necessitates a profound understanding of its impact on human health. The NASA Open Science Data Repository (OSDR) provides transparent and FAIR access to biological studies, notably ...",
+    "Results": "C2 = msigdbr(species=\"human\", category=\"C2\") pathways = split(x=C2$ensembl_gene, f=C2$gs_name) library(fgsea)deg$rank = deg$padj * sign(deg$log2FoldChange)ranks = with(na.omit(deg),setNames(rank, rownames(na.omit(deg))))plotEnrichment(pathways$DIAZ_CHRONIC_MYELOGENOUS_LEUKEMIA_UP, ranks)",
+    "Conclusion": "",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b2ab/11094041/f3e15c8f346e/41526_2024_393_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b2ab/11094041/9b0d2d6cba19/41526_2024_393_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b2ab/11094041/458147eb726d/41526_2024_393_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b2ab/11094041/c1ee788988f7/41526_2024_393_Fig4_HTML.jpg"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC6251167",
+  "title": "Multi-drug resistant Enterobacter bugandensis species isolated from the International Space Station and comparative genomic analyses with human pathogenic strains",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251167/",
+  "sections": {
+    "Abstract": "The antimicrobial resistance (AMR) phenotypic properties, multiple drug resistance (MDR) gene profiles, and genes related to potential virulence and pathogenic properties of five Enterobacter bugandensis strains isolated from the International Space ...",
+    "Results": "Molecular phylogeny and whole genome analysis of the ISS strains with all publicly available Enterobacter genomes revealed that ISS strains were E. bugandensis and similar to the type strain EB-247 T and two clinical isolates (153_ECLO and MBRL 1077). Comparative genomic analyses of all eight E. bungandensis strains showed, a total of 4733 genes were associated with carbohydrate metabolism (635 genes), amino acid and derivatives (496 genes), protein metabolism (291 genes), cofactors, vitamins, prosthetic groups, pigments (275 genes), membrane transport (247 genes), and RNA metabolism (239 genes). In addition, 112 genes identified in the ISS strains were involved in virulence, disease, and defense. Genes associated with resistance to antibiotics and toxic compounds, including the MDR tripartite system were also identified in the ISS strains. A multiple antibiotic resistance (MAR) locus or MAR operon encoding MarA, MarB, MarC, and MarR, which regulate more than 60 genes, including upregulation of drug efflux systems that have been reported in Escherichia coli K12, was also observed in the ISS strains.",
+    "Conclusion": "Given the MDR results for these ISS Enterobacter genomes and increased chance of pathogenicity (PathogenFinder algorithm with > 79% probability), these species pose important health considerations for future missions. Thorough genomic characterization of the strains isolated from ISS can help to understand the pathogenic potential, and inform future missions, but analyzing them in in-vivo systems is required to discern the influence of microgravity on their pathogenicity.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3b47/6251167/4204b967d2e1/12866_2018_1325_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3b47/6251167/c041a640c96b/12866_2018_1325_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3b47/6251167/38b933228bc2/12866_2018_1325_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3b47/6251167/772595e85d01/12866_2018_1325_Fig4_HTML.jpg"
+    ]
+  }
+}

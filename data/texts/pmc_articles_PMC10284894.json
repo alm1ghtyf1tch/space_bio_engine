@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC10284894",
+  "title": "Mitigation and use of biofilms in space for the benefit of human space exploration",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10284894/",
+  "sections": {
+    "Abstract": "With the construction of the International Space Station, humans have been continuously living and working in space for 22 years. Microbial studies in space and other extreme environments on Earth have shown the ability for bacteria and fungi to ...",
+    "Results": "Microbes can also be used to remove toxins from Martian soil such as perchlorates, which are found in high levels in Martian soil and cause a significant reduction in plant survival and productivity 70 , 71 . Engineered CO 2 -utilizing bacteria expressing perchlorate reduction enzymes have been shown to remove harmful perchlorates from the soil while also adding essential nutrients into the soil, such as chloride ions, oxygen, and water for better plant growth 72 – 74 . Sunikumar et al. tested the ability of two perchlorate-reducing soil bacteria, Pseudomonas stutzeri and Azospirillum brasilense , to reduce perchlorates from simulated regolith and found that they removed up to 5 mM and 10 mM of perchlorates, respectively, which corresponded to a removal efficiency of 100% 75 . These results suggest that naturally occurring or genetically engineered microbes with high perchlorate and/or toxin-reducing efficiency should be further studied for bioremediation of perchlorate and other harmful toxins from Martian and lunar soils. Just as microorganisms are a vital part of terrestrial plant production systems, microorganisms will play an important role in higher plant production and soil systems on future deep space missions and extraterrestrial outposts. Previous research indicates that plant production using hydroponic systems is a promising method for plant production in microgravity 34 – 36 , but further optimization will be required to prevent fungal contamination in these systems 43 . Using soil-based plant growth systems is a promising alternative to circumvent the limitations of hydroponics, but research is limited in this area within BLSS. Therefore, further research using soil-based plant growth systems, supplemented with microorganisms, may improve the effectiveness of BLSS and self-sufficiency of astronauts on deep space missions.",
+    "Conclusion": "",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad26/10284894/9f00e0a4865f/41526_2023_285_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad26/10284894/755e13723554/41526_2023_285_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad26/10284894/70ad888d1900/41526_2023_285_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad26/10284894/5dfcaedc1d5c/41526_2023_285_Fig4_HTML.jpg"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "paper_id": "pmc_articles_PMC5504618",
+  "title": "Human presence impacts fungal diversity of inflated lunar/Mars analog habitat.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504618/",
+  "sections": {
+    "Abstract": "An inflatable lunar/Mars analog habitat (ILMAH), simulated closed system isolated by HEPA filtration, mimics International Space Station (ISS) conditions and future human habitation on other planets except for the exchange of air between outdoor and ...",
+    "Results": "Succession of fungi was characterized utilizing both traditional and state-of-the-art molecular techniques during the 30-day human occupation of the ILMAH. Surface samples were collected at various time points and locations to observe both the total and viable fungal populations of common environmental and opportunistic pathogenic species. To estimate the cultivable fungal population, potato dextrose agar plate counts method was utilized. The internal transcribed spacer region-based iTag Illumina sequencing was employed to measure the community structure and fluctuation of the mycobiome over time in various locations. Treatment of samples with propidium monoazide (PMA; a DNA intercalating dye for selective detection of viable microbial populations) had a significant effect on the microbial diversity compared to non-PMA-treated samples. Statistical analysis confirmed that viable fungal community structure changed (increase in diversity and decrease in fungal burden) over the occupation time. Samples collected at day 20 showed distinct fungal profiles from samples collected at any other time point (before or after). Viable fungal families like Davidiellaceae , Teratosphaeriaceae , Pleosporales , and Pleosporaceae were shown to increase during the occupation time.",
+    "Conclusion": "The results of this study revealed that the overall fungal diversity in the closed habitat changed during human presence; therefore, it is crucial to properly maintain a closed habitat to preserve it from deteriorating and keep it safe for its inhabitants. Differences in community profiles were observed when statistically treated, especially of the mycobiome of samples collected at day 20. On a genus level Epiccocum , Alternaria , Pleosporales , Davidiella , and Cryptococcus showed increased abundance over the occupation time.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/2a70edf94e94/40168_2017_280_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/8ceb00a74e7c/40168_2017_280_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/82c079edafb6/40168_2017_280_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/baa5de60ab7d/40168_2017_280_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/9d6f3af4d349/40168_2017_280_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/ca94a1892b51/40168_2017_280_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/11330cc6cc39/40168_2017_280_Fig7_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad7f/5504618/33e95455ab90/40168_2017_280_Fig8_HTML.jpg"
+    ]
+  }
+}

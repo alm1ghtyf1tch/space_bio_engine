@@ -1,0 +1,18 @@
+{
+  "paper_id": "pmc_articles_PMC4064004",
+  "title": "Organization of the ER-Golgi interface for membrane traffic control.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064004/",
+  "sections": {
+    "Abstract": "Abstract Coat protein complex I (COPI) and COPII are required for bidirectional membrane trafficking between the endoplasmic reticulum (ER) and the Golgi. While these core coat machineries and other transport factors are highly conserved across species, high-resolution imaging studies indicate that the organization of the ER–Golgi interface is varied in eukaryotic cells. Regulation of COPII assembly, in some cases to manage distinct cellular cargo, is emerging as one important component in determining this structure. Comparison of the ER–Golgi interface across different systems, particularly mammalian and plant cells, reveals fundamental elements and distinct organization of this interface. A better understanding of how these interfaces are regulated to meet varying cellular secretory demands should provide key insights into the mechanisms that control efficient trafficking of proteins and lipids through the secretory pathway.",
+    "Results": "",
+    "Conclusion": "A useful guide for the biologist’s view of the cell has been that structure reflects function. This perspective has been powerfully applied to the study of membrane traffic with an understanding that the molecular basis for observed membrane structures and dynamics is tightly coupled with function. In this Review, we focus on individual stages in membrane transport that influence organization of the ER–Golgi interface. Through a comparative analysis of model systems, we begin to see how this core structural machinery is adapted to meet cell-specific requirements. However, future studies will need to further integrate cellular regulatory networks that control biosynthetic rates and flux through trafficking routes with this core machinery. For example, changing developmental and environmental conditions that alter the profile of protein and lipid cargos must be integrated in a manner that maintains the organization of the ER–Golgi interface. Global regulation through the UPR clearly has a key homeostatic role in coordinating protein and lipid biosynthetic rates in response to environmental conditions. But studying how the UPR orchestrates such adaptation may be challenging because there are multiple branches of the UPR in animal and plant cells 53 , 111 , and these are likely to work in concert with several other signalling networks that regulate membrane traffic. Advancing such ‘systems-level’ questions will depend on the identification of all required factors, in vivo microscopy and cell-free assays to accurately measure cargo biosynthetic and transport rates, as well as the elucidation of the sensor networks that are in place for overall coordination of distinct trafficking steps. Continued comparative analyses across a range of model organisms should ultimately allow us to further define the mechanisms that underlie the regulation of ER–Golgi transport in the context of cellular function.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1be7/4064004/3ec9ef7bc12d/nihms581152f1.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1be7/4064004/f4a50cbd9959/nihms581152f2.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1be7/4064004/3136b55047fd/nihms581152f3.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1be7/4064004/689e0813602b/nihms581152f4.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1be7/4064004/6c9eb54a90a1/nihms581152u1.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1be7/4064004/fe449830361d/nihms581152u2.jpg"
+    ]
+  }
+}

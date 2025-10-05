@@ -1,0 +1,15 @@
+{
+  "paper_id": "pmc_articles_PMC6240453",
+  "title": "Comparing RNA-Seq and microarray gene expression data in two zones of the Arabidopsis root apex relevant to spaceflight.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240453/",
+  "sections": {
+    "Abstract": "The root apex is an important region involved in environmental sensing, but comprises a very small part of the root. Obtaining root apex transcriptomes is therefore challenging when the samples are limited. The feasibility of using tiny root ...",
+    "Results": "Both microarrays and RNA‐Seq proved applicable to the small samples. A total of 4180 genes were differentially expressed (with fold changes of 2 or greater) between Zone 1 and Zone 2. In addition, 771 unique genes and 19 novel transcriptionally active regions were identified by RNA‐Seq that were not detected in microarrays. However, microarrays detected spaceflight‐relevant genes that were missed in RNA‐Seq.",
+    "Conclusion": "Single root tip subsections can be used for transcriptome analysis using either RNA‐Seq or microarrays. Both RNA‐Seq and microarrays provided novel information. These data suggest that techniques for dealing with small, rare samples from spaceflight can be further enhanced, and that RNA‐Seq may miss some spaceflight‐relevant changes in gene expression.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed58/6240453/e1f72d19ceb8/APS3-6-e01197-g001.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed58/6240453/9c79dc533444/APS3-6-e01197-g002.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed58/6240453/69c0e4887960/APS3-6-e01197-g003.jpg"
+    ]
+  }
+}

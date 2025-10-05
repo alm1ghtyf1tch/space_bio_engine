@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC7251690",
+  "title": "Spaceflight induces novel regulatory responses in Arabidopsis seedling as revealed by combined proteomic and transcriptomic analyses.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251690/",
+  "sections": {
+    "Abstract": "Understanding of gravity sensing and response is critical to long-term human habitation in space and can provide new advantages for terrestrial agriculture. To this end, the altered gene expression profile induced by microgravity has been repeatedly ...",
+    "Results": "Proteomic (iTRAQ-labelled LC-MS/MS) and transcriptomic (RNA-seq) analyses simultaneously quantified protein and transcript differential expression of three-day old, etiolated Arabidopsis thaliana seedlings grown aboard the International Space Station along with their ground control counterparts. Protein extracts were fractionated to isolate soluble and membrane proteins and analyzed to detect differentially phosphorylated peptides. In total, 968 RNAs, 107 soluble proteins, and 103 membrane proteins were identified as differentially expressed. In addition, the proteomic analyses identified 16 differential phosphorylation events. Proteomic data delivered novel insights and simultaneously provided new context to previously made observations of gene expression in microgravity. There is a sweeping shift in post-transcriptional mechanisms of gene regulation including RNA-decapping protein DCP5, the splicing factors GRP7 and GRP8, and AGO4,. These data also indicate AHA2 and FERONIA as well as CESA1 and SHOU4 as central to the cell wall adaptations seen in spaceflight. Patterns of tubulin-α 1, 3,4 and 6 phosphorylation further reveal an interaction of microtubule and redox homeostasis that mirrors osmotic response signaling elements. The absence of gravity also results in a seemingly wasteful dysregulation of plastid gene transcription.",
+    "Conclusion": "The datasets gathered from Arabidopsis seedlings exposed to microgravity revealed marked impacts on post-transcriptional regulation, cell wall synthesis, redox/microtubule dynamics, and plastid gene transcription. The impact of post-transcriptional regulatory alterations represents an unstudied element of the plant microgravity response with the potential to significantly impact plant growth efficiency and beyond. What’s more, addressing the effects of microgravity on AHA2, CESA1, and alpha tubulins has the potential to enhance cytoskeletal organization and cell wall composition, thereby enhancing biomass production and growth in microgravity. Finally, understanding and manipulating the dysregulation of plastid gene transcription has further potential to address the goal of enhancing plant growth in the stressful conditions of microgravity.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c44/7251690/41e54be164eb/12870_2020_2392_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c44/7251690/85977a3f72fb/12870_2020_2392_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c44/7251690/95227a402b73/12870_2020_2392_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c44/7251690/b410d6bc1efa/12870_2020_2392_Fig4_HTML.jpg"
+    ]
+  }
+}

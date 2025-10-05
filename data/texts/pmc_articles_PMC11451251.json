@@ -1,0 +1,18 @@
+{
+  "paper_id": "pmc_articles_PMC11451251",
+  "title": "Adaptation to space conditions of novel bacterial species isolated from the International Space Station revealed by functional gene annotations and comparative genome analysis",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11451251/",
+  "sections": {
+    "Abstract": "The extreme environment of the International Space Station (ISS) puts selective pressure on microorganisms unintentionally introduced during its 20+ years of service as a low-orbit science platform and human habitat. Such pressure leads to the ...",
+    "Results": "In this study, we generated the functional annotation of the genomes of five newly identified species of Gram-positive bacteria, four of which are non-spore-forming and one spore-forming, all isolated from the ISS. Using a deep-learning based tool—deepFRI—we were able to functionally annotate close to 100% of protein-coding genes in all studied species, overcoming other annotation tools. Our comparative genomic analysis highlights common characteristics across all five species and specific genetic traits that appear unique to these ISS microorganisms. Proteome analysis mirrored these genomic patterns, revealing similar traits. The collective annotations suggest adaptations to life in space, including the management of hypoosmotic stress related to microgravity via mechanosensitive channel proteins, increased DNA repair activity to counteract heightened radiation exposure, and the presence of mobile genetic elements enhancing metabolism. In addition, our findings suggest the evolution of certain genetic traits indicative of potential pathogenic capabilities, such as small molecule and peptide synthesis and ATP-dependent transporters. These traits, exclusive to the ISS microorganisms, further substantiate previous reports explaining why microbes exposed to space conditions demonstrate enhanced antibiotic resistance and pathogenicity.",
+    "Conclusion": "Our findings indicate that the microorganisms isolated from ISS we studied have adapted to life in space. Evidence such as mechanosensitive channel proteins, increased DNA repair activity, as well as metallopeptidases and novel S-layer oxidoreductases suggest a convergent adaptation among these diverse microorganisms, potentially complementing one another within the context of the microbiome. The common genes that facilitate adaptation to the ISS environment may enable bioproduction of essential biomolecules need during future space missions, or serve as potential drug targets, if these microorganisms pose health risks. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (131.4MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3955/11451251/af851ca51ee8/40168_2024_1916_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3955/11451251/3e842d97fdce/40168_2024_1916_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3955/11451251/624cc4675a3c/40168_2024_1916_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3955/11451251/82f44f203b6b/40168_2024_1916_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3955/11451251/fc7b210a7430/40168_2024_1916_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3955/11451251/7d0ec069a69f/40168_2024_1916_Fig6_HTML.jpg"
+    ]
+  }
+}

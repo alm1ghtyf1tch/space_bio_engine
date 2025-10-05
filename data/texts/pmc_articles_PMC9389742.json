@@ -1,0 +1,20 @@
+{
+  "paper_id": "pmc_articles_PMC9389742",
+  "title": "Modeled microgravity alters apoptotic gene expression and caspase activity in the squid-vibrio symbiosis",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9389742/",
+  "sections": {
+    "Abstract": "Spaceflight is a novel and profoundly stressful environment for life. One aspect of spaceflight, microgravity, has been shown to perturb animal physiology thereby posing numerous health risks, including dysregulation of normal developmental ...",
+    "Results": "Analysis of the host genome and transcriptome revealed a complex network of apoptosis genes affiliated with extrinsic/receptor-mediated and intrinsic/stress-induced apoptosis. Expression of apoptosis genes under modeled microgravity conditions occurred earlier and at high levels compared to gravity controls, in particular the expression of genes encoding initiator and executioner caspases. Functional assays of these apoptotic proteases revealed heightened activity under modeled microgravity; however, these increases could be mitigated using caspase inhibitors.",
+    "Conclusion": "The outcomes of this study indicated that modeled microgravity alters the expression of both extrinsic and intrinsic apoptosis gene expression and that this process is mediated in part by caspases. Modeled microgravity-associated increases of caspase activity can be pharmacologically inhibited suggesting that perturbations to the normal apoptosis signaling cascade can be mitigated, which may have broader implications for maintaining animal-microbial homeostasis in spaceflight.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/489b8db90bda/12866_2022_2614_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/fe7ce49864aa/12866_2022_2614_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/30b7a2218d3f/12866_2022_2614_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/7711f3d7b55b/12866_2022_2614_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/c3a080ecc502/12866_2022_2614_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/890c82044db2/12866_2022_2614_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/1396d44632a3/12866_2022_2614_Fig7_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/55ba/9389742/abe797219162/12866_2022_2614_Fig8_HTML.jpg"
+    ]
+  }
+}

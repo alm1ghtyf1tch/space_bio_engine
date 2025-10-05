@@ -1,0 +1,19 @@
+{
+  "paper_id": "pmc_articles_PMC6069985",
+  "title": "Effects of liquid cultivation on gene expression and phenotype of C. elegans.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069985/",
+  "sections": {
+    "Abstract": "Liquid cultures have been commonly used in space, toxicology, and pharmacology studies of Caenorhabditis elegans. However, the knowledge about transcriptomic alterations caused by liquid cultivation remains limited. Moreover, the impact of different ...",
+    "Results": "Significant variations were found in the gene expressions between the N2 and AB1 strains in response to liquid cultivation. The results demonstrated that 8–34% of the environmental change-induced transcriptional responses are transmitted to the subsequent generation. By categorizing the gene expressions for genotype, environment, and genotype-environment interactions, we identified that the genotype has a substantial impact on the adaptive responses. Functional analysis of the transcriptome showed correlation with phenotypical changes. For example, the N2 strain exhibited alterations in both phenotype and gene expressions for germline and cuticle in axenic liquid cultivation. We found transcript evidence to approximately 21% of the computationally predicted genes in C. elegans by exposing the worms to environmental changes.",
+    "Conclusion": "The presented study reveals substantial differences between N2 and AB1 strains for transcriptomic and phenotypical responses to rapid environmental changes. Our data can provide standard controls for future studies for the liquid cultivation of C. elegans and enable the discovery of condition-specific genes.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/1948e2e0c3d5/12864_2018_4948_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/b6ae2f7b66b4/12864_2018_4948_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/45e8eda17c4c/12864_2018_4948_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/a5132de087bf/12864_2018_4948_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/592768eceb03/12864_2018_4948_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/a82cb3795663/12864_2018_4948_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d7f/6069985/5b38457480c9/12864_2018_4948_Tab1_HTML.jpg"
+    ]
+  }
+}

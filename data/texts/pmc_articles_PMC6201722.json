@@ -1,0 +1,25 @@
+{
+  "paper_id": "pmc_articles_PMC6201722",
+  "title": "Utilization of single‚Äêimage normalized difference vegetation index (SI‚ÄêNDVI) for early plant stress detection",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6201722/",
+  "sections": {
+    "Abstract": "An imaging system was refined to monitor the health of vegetation grown in controlled conditions using spectral reflectance patterns. To measure plant health, the single‐image normalized difference vegetation index (SI‐NDVI) compares leaf ...",
+    "Results": "The SI‐NDVI imaging system was characterized to assess plant responses to stress before visual detection during controlled stress assays. Images were analyzed using Fiji image processing software and Microsoft Excel to create qualitative false color images and quantitative graphs to detect plant stress.",
+    "Conclusion": "Stress was detected in Arabidopsis thaliana seedlings within 15 min of salinity application using SI‐NDVI analysis, before stress was visible. Stress was also observed during ammonium nitrate treatment of Eruca sativa plants before visual detection. Early detection of plant stress is possible using SI‐NDVI imaging, which is both simpler to use and more cost efficient than traditional dual‐image NDVI or hyper‐spectral imaging.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/957151fcca7d/APS3-6-e01186-g001.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/cec972b93a17/APS3-6-e01186-g002.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/1a626beb2be8/APS3-6-e01186-g003.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/9e52bd738a24/APS3-6-e01186-g004.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/e9654ecc5237/APS3-6-e01186-g005.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/e15857d22b41/APS3-6-e01186-g006.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/0310f33d9492/APS3-6-e01186-g007.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/f45d04c5911c/APS3-6-e01186-g008.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/994616aff1e1/APS3-6-e01186-g009.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/35561e785902/APS3-6-e01186-g010.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/a2f81565652d/APS3-6-e01186-g011.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/45b09dc84ded/APS3-6-e01186-g012.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ada0/6201722/bf4014fe5479/APS3-6-e01186-g013.jpg"
+    ]
+  }
+}

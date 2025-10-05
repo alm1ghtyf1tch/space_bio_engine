@@ -1,0 +1,18 @@
+{
+  "paper_id": "pmc_articles_PMC5387210",
+  "title": "Root growth movements: Waving and skewing.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5387210/",
+  "sections": {
+    "Abstract": "The movement of plant roots within the soil is key to their ability to interact with the environment and maximize anchorage and nutrient acquisition. Directional growth of roots occurs by a combination of sensing external cues, hormonal signaling ...",
+    "Results": "We found that Arabidopsis thaliana TNO1 (TGN-localized SYP41-interacting protein), a putative tethering factor localized at the trans -Golgi network, affects root skewing. tno1 knockout mutants display enhanced root skewing and epidermal cell file rotation. Skewing of tno1 roots increases upon microtubule stabilization, but is insensitive to microtubule destabilization. Microtubule destabilization leads to severe defects in cell morphology in tno1 seedlings. Microtubule array orientation is unaffected in the mutant roots, suggesting that the increase in cell file rotation is independent of the orientation of microtubule arrays.",
+    "Conclusion": "We conclude that TNO1 modulates root skewing in a mechanism that is dependent on microtubules but is not linked to disruption of the orientation of microtubule arrays. In addition, TNO1 is required for maintenance of cell morphology in mature regions of roots and the base of hypocotyls. The TGN-localized SNARE machinery might therefore be important for appropriate epidermal cell file rotation and cell expansion during root growth.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e5ec/5387210/9c0655172212/12870_2017_1024_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e5ec/5387210/5c77c3640d4f/12870_2017_1024_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e5ec/5387210/6c52cc00e408/12870_2017_1024_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e5ec/5387210/cfba72659ed1/12870_2017_1024_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e5ec/5387210/776337b7bc94/12870_2017_1024_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e5ec/5387210/90c1a7357ea7/12870_2017_1024_Fig6_HTML.jpg"
+    ]
+  }
+}

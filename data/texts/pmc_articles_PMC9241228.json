@@ -1,0 +1,22 @@
+{
+  "paper_id": "pmc_articles_PMC9241228",
+  "title": "Microbial tracking-2, a metagenomics analysis of bacteria and fungi onboard the International Space Station.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9241228/",
+  "sections": {
+    "Abstract": "The International Space Station (ISS) is a unique and complex built environment with the ISS surface microbiome originating from crew and cargo or from life support recirculation in an almost entirely closed system. The Microbial Tracking 1 (MT-1) ...",
+    "Results": "Staphylococcus sp. and Malassezia sp. were the most represented bacterial and fungal species, respectively, on the ISS. Overall, the ISS surface microbiome was dominated by organisms associated with the human skin. Multi-dimensional scaling and differential abundance analysis showed significant temporal changes in the microbial population but no spatial differences. The ISS antimicrobial resistance gene profiles were however more stable over time, with no differences over the 5-year span of the MT-1 and MT-2 studies. Twenty-nine antimicrobial resistance genes were detected across all samples, with macrolide/lincosamide/streptogramin resistance being the most widespread. Metagenomic assembled genomes were reconstructed from the dataset, resulting in 82 MAGs. Functional assessment of the collective MAGs showed a propensity for amino acid utilization over carbohydrate metabolism. Co-occurrence analyses showed strong associations between bacterial and fungal genera. Culture analysis showed the microbial load to be on average 3.0 × 10 5 cfu/m 2",
+    "Conclusion": "Utilizing various metagenomics analyses and culture methods, we provided a comprehensive analysis of the ISS surface microbiome, showing microbial burden, bacterial and fungal species prevalence, changes in the microbiome, and resistome over time and space, as well as the functional capabilities and microbial interactions of this unique built microbiome. Data from this study may help to inform policies for future space missions to ensure an ISS surface microbiome that promotes astronaut health and spacecraft integrity. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (99.8MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/b1dcfba37a91/40168_2022_1293_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/f6e2c67ba93e/40168_2022_1293_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/90f4994eb2b3/40168_2022_1293_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/6ae4680ec666/40168_2022_1293_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/c6d8c3bee15b/40168_2022_1293_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/83d2b7c46f69/40168_2022_1293_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/315da5304eae/40168_2022_1293_Fig7_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/72f29da3c174/40168_2022_1293_Fig8_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/5e99c8116806/40168_2022_1293_Fig9_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7d7/9241228/cbac2da51ecd/40168_2022_1293_Fig10_HTML.jpg"
+    ]
+  }
+}

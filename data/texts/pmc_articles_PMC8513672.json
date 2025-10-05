@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC8513672",
+  "title": "Dichotomous effects on lymphatic transport with loss of caveolae in mice.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513672/",
+  "sections": {
+    "Abstract": "Fluid and macromolecule transport from the interstitium into and through lymphatic vessels is necessary for tissue homeostasis. While lymphatic capillary structure suggests that passive, paracellular transport would be the predominate route of ...",
+    "Results": "In each model, lymphatic architecture was largely unchanged. The lymphatic conductance, or initial tissue uptake, was significantly higher in both CavKO mice and LyCav mice by quantitative microlymphangiography and the permeability to 70kDa dextran was significantly increased in monolayers of LECs isolated from CavKO mice. Conversely, transport within the lymphatic system to the sentinel node was significantly reduced in anesthetized CavKO and LyCav mice. Isolated, cannulated collecting vessel studies identified significantly reduced phasic contractility when lymphatic endothelium lacks caveolae. Inhibition of nitric oxide synthase was able to partially restore ex vivo vessel contractility.",
+    "Conclusion": "Macromolecule transport across lymphatics is increased with loss of caveolae, yet phasic contractility reduced, resulting in reduced overall lymphatic transport function. These studies identify lymphatic caveolar biology as a key regulator of active lymphatic transport functions.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4e70/8513672/524878d6cff8/nihms-1745158-f0001.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4e70/8513672/3947e446d026/nihms-1745158-f0002.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4e70/8513672/a7ad74d4e601/nihms-1745158-f0003.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4e70/8513672/f19a589a4a2c/nihms-1745158-f0004.jpg"
+    ]
+  }
+}

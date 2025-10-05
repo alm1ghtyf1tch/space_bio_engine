@@ -1,0 +1,17 @@
+{
+  "paper_id": "pmc_articles_PMC9743659",
+  "title": "Multidrug-resistant Acinetobacter pittii is adapting to and exhibiting potential succession aboard the International Space Station.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9743659/",
+  "sections": {
+    "Abstract": "Monitoring the adaptation of microorganisms to the extreme environment of the International Space Station (ISS) is crucial to understanding microbial evolution and infection prevention. Acinetobacter pittii is an opportunistic nosocomial pathogen, ...",
+    "Results": "Here, we report how ISS-associated A. pittii ( n = 20 genomes) has formed its own genetically and functionally discrete clade distinct from most Earth-bound isolates ( n = 291 genomes). The antimicrobial susceptibility testing of ISS strains and two related clinical isolates demonstrated that ISS strains acquired more resistance, specifically with regard to expanded-spectrum cephalosporins, despite no prediction of increased resistance based on genomic analysis of resistance genes. By investigating 402 longitudinal environmental and host-associated ISS metagenomes, we observed that viable A. pittii is increasing in relative abundance and therefore potentially exhibiting succession, being identified in >2X more metagenomic samples in back-to-back missions. ISS strains additionally contain functions that enable them to survive in harsh environments, including the transcriptional regulator LexA. Via a genome-wide association study, we identified a high level of mutational burden in methionine sulfoxide reductase genes relative to the most closely related Earth strains.",
+    "Conclusion": "Overall, these results indicated a step forward in understanding how microorganisms might evolve and alter their antibiotic resistance phenotype in extreme, resource-limited, human-built environments. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (68.9MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2263/9743659/15b8c1e65237/40168_2022_1358_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2263/9743659/78fc1d97e9e4/40168_2022_1358_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2263/9743659/660ab61f99f7/40168_2022_1358_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2263/9743659/86df98316953/40168_2022_1358_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2263/9743659/f37846f9f30b/40168_2022_1358_Fig5_HTML.jpg"
+    ]
+  }
+}

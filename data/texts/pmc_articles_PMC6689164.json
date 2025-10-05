@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC6689164",
+  "title": "Reproducible changes in the gut microbiome suggest a shift in microbial and host metabolism during spaceflight.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6689164/",
+  "sections": {
+    "Abstract": "Space environment imposes a range of challenges to mammalian physiology and the gut microbiota, and interactions between the two are thought to be important in mammalian health in space. While previous findings have demonstrated a change in the gut ...",
+    "Results": "We report an elevated microbiome alpha diversity and an altered microbial community structure that were associated with spaceflight environment. Using STARMAPs, we found the observed microbiome changes shared similarity with data reported in mice flown in a previous space shuttle mission, suggesting reproducibility of the effects of spaceflight on the gut microbiome. However, such changes were not comparable with those induced by space-type radiation in Earth-based studies. We found spaceflight led to significantly altered taxon abundance in one order, one family, five genera, and six species of microbes. This was accompanied by a change in the inferred microbial gene abundance that suggests an altered capacity in energy metabolism. Finally, we identified host genes whose expression in the liver were concordantly altered with the inferred gut microbial gene content, particularly highlighting a relationship between host genes involved in protein metabolism and microbial genes involved in putrescine degradation.",
+    "Conclusion": "These observations shed light on the specific environmental factors that contributed to a robust effect on the gut microbiome during spaceflight with important implications for mammalian metabolism. Our findings represent a key step toward a better understanding the role of the gut microbiome in mammalian health during spaceflight and provide a basis for future efforts to develop microbiota-based countermeasures that mitigate risks to crew health during long-term human space expeditions.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eec3/6689164/881ea2907aa6/40168_2019_724_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eec3/6689164/afacacb59e18/40168_2019_724_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eec3/6689164/d0e837863c79/40168_2019_724_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eec3/6689164/a05f11876582/40168_2019_724_Fig4_HTML.jpg"
+    ]
+  }
+}

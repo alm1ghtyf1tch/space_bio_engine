@@ -1,0 +1,19 @@
+{
+  "paper_id": "pmc_articles_PMC6452512",
+  "title": "Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces.",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452512/",
+  "sections": {
+    "Abstract": "The International Space Station (ISS) is a closed system inhabited by microorganisms originating from life support systems, cargo, and crew that are exposed to unique selective pressures such as microgravity. To date, mandatory microbial monitoring ...",
+    "Results": "The cultivable bacterial and fungal population ranged from 10 4 to 10 9 CFU/m 2 depending on location and consisted of various bacterial ( Actinobacteria , Firmicutes , and Proteobacteria ) and fungal ( Ascomycota and Basidiomycota ) phyla. Amplicon sequencing detected more bacterial phyla when compared to the culture-based analyses, but both methods identified similar numbers of fungal phyla. Changes in bacterial and fungal load (by culture and qPCR) were observed over time but not across locations. Bacterial community composition changed over time, but not across locations, while fungal community remained the same between samplings and locations. There were no significant differences in community composition and richness after propidium monoazide sample treatment, suggesting that the analyzed DNA was extracted from intact/viable organisms. Moreover, approximately 46% of intact/viable bacteria and 40% of intact/viable fungi could be cultured.",
+    "Conclusion": "The results reveal a diverse population of bacteria and fungi on ISS environmental surfaces that changed over time but remained similar between locations. The dominant organisms are associated with the human microbiome and may include opportunistic pathogens. This study provides the first comprehensive catalog of both total and intact/viable bacteria and fungi found on surfaces in closed space systems and can be used to help develop safety measures that meet NASA requirements for deep space human habitation. The results of this study can have significant impact on our understanding of other confined built environments on the Earth such as clean rooms used in the pharmaceutical and medical industries.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/5e077589764a/40168_2019_666_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/5bbff4a2ab9f/40168_2019_666_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/6ca8ba1889a8/40168_2019_666_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/d2c158698a7c/40168_2019_666_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/119809028535/40168_2019_666_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/a98e21096cf0/40168_2019_666_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6cb3/6452512/d8d48ebb2a0b/40168_2019_666_Fig7_HTML.jpg"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "paper_id": "pmc_articles_PMC10233975",
+  "title": "Characterization of metagenome-assembled genomes from the International Space Station",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10233975/",
+  "sections": {
+    "Abstract": "Several investigations on the microbial diversity and functional properties of the International Space Station (ISS) environment were carried out to understand the influence of spaceflight conditions on the microbial population. However, ...",
+    "Results": "In total, 46 MAGs were assembled from 21 ISS environmental metagenomes, in which metaSPAdes yielded 20 MAGs and metaWRAP generated 26 MAGs. Among 46 MAGs retrieved, 18 bacterial species were identified, including one novel genus/species combination ( Kalamiella piersonii ) and one novel bacterial species ( Methylobacterium ajmalii ). In addition, four bins exhibited fungal genomes; this is the first-time fungal genomes were assembled from ISS metagenomes. Phylogenetic analyses of five bacterial species showed ISS-specific evolution. The genes pertaining to cell membranes, such as transmembrane transport, cell wall organization, and regulation of cell shape, were enriched. Variations in the antimicrobial-resistant (AMR) and virulence genes of the selected 20 MAGs were characterized to predict the ecology and evolution of biosafety level (BSL) 2 microorganisms in space. Since microbial virulence increases in microgravity, AMR gene sequences of MAGs were compared with genomes of respective ISS isolates and corresponding type strains. Among these 20 MAGs characterized, AMR genes were more prevalent in the Enterobacter bugandensis MAG, which has been predominantly isolated from clinical samples. MAGs were further used to analyze if genes involved in AMR and biofilm formation of viable microbes in ISS have variation due to generational evolution in microgravity and radiation pressure.",
+    "Conclusion": "Comparative analyses of MAGs and whole-genome sequences of related ISS isolates and their type strains were characterized to understand the variation related to the microbial evolution under microgravity. The Pantoea / Kalamiella strains have the maximum single-nucleotide polymorphisms found within the ISS strains examined. This may suggest that Pantoea / Kalamiella strains are much more subjective to microgravity changes. The reconstructed genomes will enable researchers to study the evolution of genomes under microgravity and low-dose irradiation compared to the evolution of microbes here on Earth. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (99.6MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0f2a/10233975/5e7cbb73b959/40168_2023_1545_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0f2a/10233975/9d61e78fb952/40168_2023_1545_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0f2a/10233975/95881548b873/40168_2023_1545_Fig3_HTML.jpg"
+    ]
+  }
+}

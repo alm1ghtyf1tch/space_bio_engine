@@ -1,0 +1,19 @@
+{
+  "paper_id": "pmc_articles_PMC11747068",
+  "title": "Hindlimb Unloading: Rodent Analog for Microgravity",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11747068/",
+  "sections": {
+    "Abstract": "Prolonged spaceflight is known to cause vascular deconditioning and remodeling. Tail suspension, a widely used spaceflight analog, is reported to result in vascular remodeling of rats. However, little is known about the cellular atlas of the ...",
+    "Results": "Clustering analysis identified ECs, SMCs, fibroblasts, and a spectrum of immune cells, as well as neuronal and stem cells. Notably, an increased percentage of ECs in the CA and a diminished proportion of SMCs in both CA and FA were observed following tail suspension. Intersection of dysregulated genes specific for artery type and cell type after tail suspension revealed several gene sets involved in ECM remodeling, inflammation, vasoconstriction, etc. Fibroblasts, in particular, exhibited the most significant gene expression variability, highlighting their plasticity. Subclustering within ECs, SMCs and fibroblasts revealed specialized subsets engaged in processes such as EndoMT and cell cycle checkpoint regulation. Additionally, enhanced intercellular interactions among major cell types, especially between SMC and fibroblast, underscored the importance of cell communication in vascular remodeling. Several TFs were identified as potentially influential in the vascular remodeling process under simulated microgravity conditions.",
+    "Conclusion": "This study presents the first cellular atlas of the conductive arteries in hindlimb-unloaded rats, revealing a spectrum of dysregulated gene profiles. The identification of the subclusters of ECs, SMCs and fibroblasts, cellular communication analysis and transcription factors prediction are also included in this work. The findings provide a reference for future research on vascular deconditioning following long-duration spaceflight.",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/1b1575c6acfd/18_2024_5572_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/0044f51d3dbd/18_2024_5572_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/24e7bd9baabd/18_2024_5572_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/b93b28aa47ba/18_2024_5572_Fig4_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/9e5ebac6275c/18_2024_5572_Fig5_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/d0aa2b3a3e2a/18_2024_5572_Fig6_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/507a/11747068/a9b352bbaa18/18_2024_5572_Fig7_HTML.jpg"
+    ]
+  }
+}

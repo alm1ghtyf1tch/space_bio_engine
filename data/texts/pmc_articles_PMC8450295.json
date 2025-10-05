@@ -1,0 +1,21 @@
+{
+  "paper_id": "pmc_articles_PMC8450295",
+  "title": "Telomere length assessments of muscle stem cells in rodent and human skeletal muscle sections",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8450295/",
+  "sections": {
+    "Abstract": "Measurements of telomere length in skeletal muscle stem cells (MuSCs), a rare cell population within muscles, provide insights into cellular dysfunction in diseased conditions. Here, we describe a protocol (cryosection muscle quantitative ...",
+    "Results": "Note: This protocol utilizes skeletal muscle tissue from research animals and human cohorts. Ensure that the use of research animals has been approved by the appropriate institutional animal care and use committee (IACUC) or equivalent oversight body. Additionally, procurement and use of tissues derived from human sources should follow the appropriate organizational rules regarding informed consent and be approved by the end user’s institutional review board. Sample collection for this protocol was done according to institutional guidelines and regulations of the University of Pennsylvania. Note: For telomere data extraction from images, the following software must be installed on the analysis computer: java se ( https://www.oracle.com/java/technologies/javase-downloads.html ) and the freeware Telometer ( https://demarzolab.pathology.jhmi.edu/telometer/download.html ). Install software according to instructions listed on the websites. This protocol includes the following steps: 1) Skeletal muscle preparation, embedding, sectioning, 2) CRYO MuQ-FISH, 3) image collection, 4) analysis and statistics",
+    "Conclusion": "",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/9232652ce432/gr1.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/643a95f5e0b1/gr2.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/df47426bda92/gr3.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/d93872574e64/gr4.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/36f0aeb38f1b/gr5.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/9ca072223928/gr6.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/51ca064f7ff6/fx2.gif",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/b9d7883d5879/fx3.gif",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/10d6/8450295/83e6728c8b52/fx4.gif"
+    ]
+  }
+}

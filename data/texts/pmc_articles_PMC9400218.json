@@ -1,0 +1,16 @@
+{
+  "paper_id": "pmc_articles_PMC9400218",
+  "title": "Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome",
+  "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9400218/",
+  "sections": {
+    "Abstract": "Antimicrobial resistance (AMR) has a detrimental impact on human health on Earth and it is equally concerning in other environments such as space habitat due to microgravity, radiation and confinement, especially for long-distance space travel. The ...",
+    "Results": "We have analyzed the data using a deep learning model, allowing us to go beyond traditional cut-offs based only on high DNA sequence similarity and extending the catalog of AMR genes. Our results in PMA treated samples revealed AMR dominance in the last flight for Kalamiella piersonii , a bacteria related to urinary tract infection in humans. The analysis of 226 pure strains isolated from the MT-1 project revealed hundreds of antibiotic resistance genes from many isolates, including two top-ranking species that corresponded to strains of Enterobacter bugandensis and Bacillus cereus . Computational predictions were experimentally validated by antibiotic resistance profiles in these two species, showing a high degree of concordance. Specifically, disc assay data confirmed the high resistance of these two pathogens to various beta-lactam antibiotics.",
+    "Conclusion": "Overall, our computational predictions and validation analyses demonstrate the advantages of machine learning to uncover concealed AMR determinants in metagenomics datasets, expanding the understanding of the ISS environmental microbiomes and their pathogenic potential in humans. Your browser is not supporting the HTML5 <video> element. You may download that video as a file and play it with a player of you choice. Download video stream . Download video file (99.9MB, mp4) Open in a new tab Video Abstract",
+    "figures": [
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b0dd/9400218/b858f5badaa0/40168_2022_1332_Fig1_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b0dd/9400218/7b0ec2f7657b/40168_2022_1332_Fig2_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b0dd/9400218/b6ddeabebcc5/40168_2022_1332_Fig3_HTML.jpg",
+      "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b0dd/9400218/96f067171c68/40168_2022_1332_Fig4_HTML.jpg"
+    ]
+  }
+}
